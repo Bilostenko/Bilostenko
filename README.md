@@ -19,9 +19,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://d.tw93.fun/images/wakatime_weekly_language_stats.svg">
-</picture>
-
