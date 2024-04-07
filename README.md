@@ -17,5 +17,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilostenko&show_icons=true&locale=en&layout=compact" alt="bilostenko" /></p>
 
 
-#### 🏊‍♂️ Weekly Development Breakdown
-
