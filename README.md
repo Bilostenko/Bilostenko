@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 *   🌍  I'm based in Ukraine
-*   🖥️  See my portfolio at [My CV Profile](http://test.com)
+*   🖥️  See my portfolio at [My CV Profile](https://cv-profile-main.vercel.app/)
 *   ✉️  You can contact me at [bilostenkod@gmail.com](mailto:bilostenkod@gmail.com)
 *   🤝  I'm open to collaborating on interesting project
 
